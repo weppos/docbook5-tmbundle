@@ -11,6 +11,7 @@
 			<string>0861644B-4306-4E61-85A2-F36824DE509B</string>
 			<string>9AB5D69F-861E-470D-8AD4-63597C41B22A</string>
 			<string>------------------------------------</string>
+			<string>ECED9EEC-3800-46EF-BD97-E65D4D59C387</string>
 			<string>4E9E1707-2D73-4443-9BF3-05B612E2D6B2</string>
 			<string>------------------------------------</string>
 			<string>BF16A52D-D830-43C4-AB4F-C5DB1DBDFEF2</string>
@@ -33,6 +34,18 @@
 				<key>name</key>
 				<string>Filename</string>
 			</dict>
+			<key>ECED9EEC-3800-46EF-BD97-E65D4D59C387</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>F77526EA-7D13-4CBB-9614-6F17968CCF1C</string>
+					<string>6BE4548D-B846-4FAF-BB41-0241ECD644DD</string>
+					<string>3D367F24-D547-43A7-9B64-A8447FF44CCF</string>
+					<string>FE71A44F-05BA-492B-9FFF-C66446227D41</string>
+				</array>
+				<key>name</key>
+				<string>Format</string>
+			</dict>
 		</dict>
 	</dict>
 	<key>name</key>
@@ -53,6 +66,10 @@
 		<string>9AB5D69F-861E-470D-8AD4-63597C41B22A</string>
 		<string>42FACA17-AC12-4E45-A3E9-8515AB6A59D6</string>
 		<string>680E5C49-D3DF-45EC-81E9-1FBC6983DC86</string>
+		<string>F77526EA-7D13-4CBB-9614-6F17968CCF1C</string>
+		<string>6BE4548D-B846-4FAF-BB41-0241ECD644DD</string>
+		<string>3D367F24-D547-43A7-9B64-A8447FF44CCF</string>
+		<string>FE71A44F-05BA-492B-9FFF-C66446227D41</string>
 	</array>
 	<key>uuid</key>
 	<string>B9727D12-4309-4C68-8A37-073653A34AA9</string>
