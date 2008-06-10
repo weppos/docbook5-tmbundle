@@ -6,11 +6,14 @@
 	<dict>
 		<key>items</key>
 		<array>
+			<string>------------------------------------</string>
 			<string>C697448C-D84B-418B-9AF5-237425AC4D85</string>
 			<string>0861644B-4306-4E61-85A2-F36824DE509B</string>
-			<string>4E9E1707-2D73-4443-9BF3-05B612E2D6B2</string>
-			<string>BF16A52D-D830-43C4-AB4F-C5DB1DBDFEF2</string>
 			<string>9AB5D69F-861E-470D-8AD4-63597C41B22A</string>
+			<string>------------------------------------</string>
+			<string>4E9E1707-2D73-4443-9BF3-05B612E2D6B2</string>
+			<string>------------------------------------</string>
+			<string>BF16A52D-D830-43C4-AB4F-C5DB1DBDFEF2</string>
 		</array>
 		<key>submenus</key>
 		<dict>
