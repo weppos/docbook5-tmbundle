@@ -4,12 +4,12 @@
 <dict>
 	<key>content</key>
 	<string>&lt;qandaentry xml:id="$1"&gt;
-    &lt;question&gt;
-        &lt;para&gt;$2&lt;/para&gt;
-    &lt;/question&gt;
-    &lt;answer&gt;
-        &lt;para&gt;$3&lt;/para&gt;
-    &lt;/answer&gt;
+	&lt;question&gt;
+		&lt;para&gt;$2&lt;/para&gt;
+	&lt;/question&gt;
+	&lt;answer&gt;
+		&lt;para&gt;$3&lt;/para&gt;
+	&lt;/answer&gt;
 &lt;/qandaentry&gt;
 $0</string>
 	<key>name</key>
