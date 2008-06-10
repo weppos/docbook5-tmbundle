@@ -30,9 +30,9 @@ Either way, restart TextMate or select "Reload Bundles" from the Bundles >> Bund
 
 ## Author
 
-Simone Carletti <weppos@weppos.net>, [www.simonecarletti.com](http://www.simonecarletti.com)
+[Simone Carletti](http://www.simonecarletti.com) (<weppos@weppos.net>)
 
 
 ## Thanks to
  
-Dr Nic Williams (this README is a merely adapted from his github-tmbundle project)
+[Dr Nic Williams](http://drnicwilliams.com/) (this README is a merely adapted from his github-tmbundle project)
