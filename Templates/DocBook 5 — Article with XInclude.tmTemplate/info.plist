@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>command</key>
+	<string>if [[ ! -f "$TM_NEW_FILE" ]]; then
+   TM_YEAR=`date +%Y` \
+   TM_DATE=`date +%Y-%m-%d` \
+   perl -pe 's/\$\{([^}]*)\}/$ENV{$1}/g' \
+      &lt; article.xml &gt; "$TM_NEW_FILE"
+fi</string>
+	<key>extension</key>
+	<string>txt</string>
+	<key>name</key>
+	<string>DocBook 5 — Article with XInclude</string>
+	<key>uuid</key>
+	<string>680E5C49-D3DF-45EC-81E9-1FBC6983DC86</string>
+</dict>
+</plist>

@@ -2,6 +2,36 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>C697448C-D84B-418B-9AF5-237425AC4D85</string>
+			<string>0861644B-4306-4E61-85A2-F36824DE509B</string>
+			<string>4E9E1707-2D73-4443-9BF3-05B612E2D6B2</string>
+			<string>BF16A52D-D830-43C4-AB4F-C5DB1DBDFEF2</string>
+			<string>9AB5D69F-861E-470D-8AD4-63597C41B22A</string>
+		</array>
+		<key>submenus</key>
+		<dict>
+			<key>4E9E1707-2D73-4443-9BF3-05B612E2D6B2</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>E82967CF-5D00-481D-869B-872EEC24750F</string>
+					<string>55709B13-7803-47D1-9554-77E32FDC1E77</string>
+					<string>3E3EFA08-087A-451A-9844-8FBC23B3A01A</string>
+					<string>47AB4158-BC7F-46F5-83A9-6B1232D74C80</string>
+					<string>ECD7193C-D01F-4900-895B-8E7A05D19AB3</string>
+					<string>58F7FC3A-FF80-4E47-B63A-97A772188B71</string>
+					<string>C40A7CE0-F9E2-47A1-BF5E-10305214A826</string>
+					<string>D4EC5E95-8AD0-482B-81AB-C9B3AFCF1E76</string>
+				</array>
+				<key>name</key>
+				<string>Filename</string>
+			</dict>
+		</dict>
+	</dict>
 	<key>name</key>
 	<string>DocBook 5</string>
 	<key>ordering</key>
@@ -18,6 +48,8 @@
 		<string>D4EC5E95-8AD0-482B-81AB-C9B3AFCF1E76</string>
 		<string>BF16A52D-D830-43C4-AB4F-C5DB1DBDFEF2</string>
 		<string>9AB5D69F-861E-470D-8AD4-63597C41B22A</string>
+		<string>42FACA17-AC12-4E45-A3E9-8515AB6A59D6</string>
+		<string>680E5C49-D3DF-45EC-81E9-1FBC6983DC86</string>
 	</array>
 	<key>uuid</key>
 	<string>B9727D12-4309-4C68-8A37-073653A34AA9</string>
