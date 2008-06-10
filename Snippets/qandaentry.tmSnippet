@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;qandaentry xml:id="$1"&gt;
+    &lt;question&gt;
+        &lt;para&gt;$2&lt;/para&gt;
+    &lt;/question&gt;
+    &lt;answer&gt;
+        &lt;para&gt;$3&lt;/para&gt;
+    &lt;/answer&gt;
+&lt;/qandaentry&gt;
+$0</string>
+	<key>name</key>
+	<string>qandaentry</string>
+	<key>scope</key>
+	<string>text.xml</string>
+	<key>tabTrigger</key>
+	<string>qandaentry</string>
+	<key>uuid</key>
+	<string>C697448C-D84B-418B-9AF5-237425AC4D85</string>
+</dict>
+</plist>

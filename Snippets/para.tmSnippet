@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;![CDATA[$1]]&gt;$0</string>
+	<string>&lt;para&gt;$1&lt;/para&gt;$0</string>
 	<key>name</key>
-	<string>CDATA</string>
+	<string>para</string>
 	<key>scope</key>
 	<string>text.xml</string>
 	<key>tabTrigger</key>
-	<string>cdata</string>
+	<string>para</string>
 	<key>uuid</key>
-	<string>BF16A52D-D830-43C4-AB4F-C5DB1DBDFEF2</string>
+	<string>0861644B-4306-4E61-85A2-F36824DE509B</string>
 </dict>
 </plist>

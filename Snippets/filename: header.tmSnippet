@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;![CDATA[$1]]&gt;$0</string>
+	<string>&lt;filename class="${1:headerfile}"&gt;$2&lt;/filename&gt;$0</string>
 	<key>name</key>
-	<string>CDATA</string>
+	<string>filename: header</string>
 	<key>scope</key>
 	<string>text.xml</string>
 	<key>tabTrigger</key>
-	<string>cdata</string>
+	<string>filename</string>
 	<key>uuid</key>
-	<string>BF16A52D-D830-43C4-AB4F-C5DB1DBDFEF2</string>
+	<string>ECD7193C-D01F-4900-895B-8E7A05D19AB3</string>
 </dict>
 </plist>

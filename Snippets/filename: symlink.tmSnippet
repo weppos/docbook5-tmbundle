@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;![CDATA[$1]]&gt;$0</string>
+	<string>&lt;filename class="${1:symlink}"&gt;$2&lt;/filename&gt;$0</string>
 	<key>name</key>
-	<string>CDATA</string>
+	<string>filename: symlink</string>
 	<key>scope</key>
 	<string>text.xml</string>
 	<key>tabTrigger</key>
-	<string>cdata</string>
+	<string>filename</string>
 	<key>uuid</key>
-	<string>BF16A52D-D830-43C4-AB4F-C5DB1DBDFEF2</string>
+	<string>D4EC5E95-8AD0-482B-81AB-C9B3AFCF1E76</string>
 </dict>
 </plist>
