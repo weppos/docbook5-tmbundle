@@ -9,7 +9,7 @@
 	<key>name</key>
 	<string>Strikethrough</string>
 	<key>scope</key>
-	<string>text.xml</string>
+	<string>text.xml.docbook5</string>
 	<key>uuid</key>
 	<string>FE71A44F-05BA-492B-9FFF-C66446227D41</string>
 </dict>

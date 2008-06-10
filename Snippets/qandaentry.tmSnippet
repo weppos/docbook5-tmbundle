@@ -15,7 +15,7 @@ $0</string>
 	<key>name</key>
 	<string>qandaentry</string>
 	<key>scope</key>
-	<string>text.xml</string>
+	<string>text.xml.docbook5</string>
 	<key>tabTrigger</key>
 	<string>qandaentry</string>
 	<key>uuid</key>

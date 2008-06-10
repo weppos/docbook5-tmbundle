@@ -9,7 +9,7 @@
 	<key>name</key>
 	<string>Underline</string>
 	<key>scope</key>
-	<string>text.xml</string>
+	<string>text.xml.docbook5</string>
 	<key>uuid</key>
 	<string>3D367F24-D547-43A7-9B64-A8447FF44CCF</string>
 </dict>

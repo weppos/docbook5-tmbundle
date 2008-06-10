@@ -9,7 +9,7 @@
 	<key>name</key>
 	<string>Bold</string>
 	<key>scope</key>
-	<string>text.xml</string>
+	<string>text.xml.docbook5</string>
 	<key>uuid</key>
 	<string>F77526EA-7D13-4CBB-9614-6F17968CCF1C</string>
 </dict>
