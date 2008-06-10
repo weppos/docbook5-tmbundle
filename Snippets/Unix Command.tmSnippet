@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;prompt&gt;${1:\$}&lt;/prompt&gt; &lt;command&gt;${2:command}&lt;/command&gt; ${3:argument}</string>
+	<key>name</key>
+	<string>Unix Command</string>
+	<key>scope</key>
+	<string>text.xml</string>
+	<key>tabTrigger</key>
+	<string>cmd</string>
+	<key>uuid</key>
+	<string>9AB5D69F-861E-470D-8AD4-63597C41B22A</string>
+</dict>
+</plist>
