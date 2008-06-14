@@ -10,7 +10,7 @@
       &lt; article.xml &gt; "$TM_NEW_FILE"
 fi</string>
 	<key>extension</key>
-	<string>txt</string>
+	<string>xml</string>
 	<key>name</key>
 	<string>DocBook 5 — Article with XInclude</string>
 	<key>scope</key>
