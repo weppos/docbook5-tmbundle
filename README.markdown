@@ -5,9 +5,7 @@ This bundle provides a basic support for editing DocBook 5 documents in TextMate
 **Contributions are more than welcome!**
 
 
-** WARNING **
-
-This library has not been released yet. This package seems stable, but should be considered a development release.
+**WARNING**: This library has not been released yet. This package seems stable, but should be considered a development release.
 Changes to specifications may occur at any time and without notice. For the full list of changes look at the CHANGELOG file. 
 
 
