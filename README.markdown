@@ -24,9 +24,11 @@ To install without Git:
     open weppos-docbook5-tmbundle*
     rm weppos-docbook5-tmbundle*.tar.gz
     mv weppos-docbook5-tmbundle* "DocBook 5.tmbundle"
-    osascript -e 'tell app "TextMate" to reload bundles'
  
 Either way, restart TextMate or select "Reload Bundles" from the Bundles >> Bundle Editor menu.
+If you don't want to leave the command line, type the following command:
+
+    osascript -e 'tell app "TextMate" to reload bundles'
 
 
 ## Author
